@@ -23,7 +23,15 @@ body {
   margin: 0;
 }
 
+header {
+  background-color: #e2e2e2;
+}
+
 .current {
   color: #fff;
   background-color: #0074d9;
+}
+
+li {
+  color: #0074d9;
 }
