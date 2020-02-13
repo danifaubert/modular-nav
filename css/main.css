@@ -31,6 +31,12 @@ li {
   color: #0074d9;
   list-style: none;
   display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: left;
 }
 
 a:hover,
@@ -38,32 +44,4 @@ a:focus,
 .current {
   background-color: #0074d9;
   color: #fff;
-}
-
-@media only screen and (min-width: 25em) {
-
-  {
-
-  }
-}
-
-@media only screen and (min-width: 38em) {
-
-  {
-
-  }
-}
-
-@media only screen and (min-width: 60em){
-
-  {
-
-  }
-}
-
-@media only screen and (min-width: 90em) {
-
-    {
-
-    }
 }
